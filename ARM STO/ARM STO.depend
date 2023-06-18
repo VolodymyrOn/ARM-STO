@@ -1,0 +1,305 @@
+# depslib dependency file v1.0
+1687125620 source:c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\main.cpp
+	<windows.h>
+	"Manager.h"
+
+1686953478 source:c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\src\auto.cpp
+	"Auto.h"
+
+1686953461 c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\include\auto.h
+	<string>
+
+1686953532 source:c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\src\client.cpp
+	"Client.h"
+
+1686953537 c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\include\client.h
+	<string>
+	<vector>
+	"Auto.h"
+
+1686953658 source:c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\src\employee.cpp
+	"Employee.h"
+	<string>
+
+1686953701 c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\include\employee.h
+	<string>
+
+1686953750 source:c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\src\order.cpp
+	"Order.h"
+	<iostream>
+	<string.h>
+
+1686953088 c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\include\order.h
+	<string>
+	"Auto.h"
+	"Employee.h"
+	"Client.h"
+
+1684244723 source:c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\sqlite3\shell.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<assert.h>
+	<math.h>
+	"sqlite3.h"
+	"sqlite3userauth.h"
+	<ctype.h>
+	<stdarg.h>
+	<signal.h>
+	<pwd.h>
+	<unistd.h>
+	<dirent.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<readline/readline.h>
+	<readline/history.h>
+	<editline/readline.h>
+	"linenoise.h"
+	<io.h>
+	<fcntl.h>
+	<intrin.h>
+	<windows.h>
+	<sys/time.h>
+	<sys/resource.h>
+	"windows.h"
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<io.h>
+	<limits.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<assert.h>
+	<string.h>
+	<stdio.h>
+	<assert.h>
+	<string.h>
+	<stdarg.h>
+	<assert.h>
+	<string.h>
+	<ctype.h>
+	<assert.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<assert.h>
+	<stdio.h>
+	<memory.h>
+	<string.h>
+	<assert.h>
+	<ctype.h>
+	<io.h>
+	<fcntl.h>
+	<assert.h>
+	<string.h>
+	<assert.h>
+	<string.h>
+	<limits.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<dirent.h>
+	<utime.h>
+	<sys/time.h>
+	"windows.h"
+	<io.h>
+	<direct.h>
+	<time.h>
+	<errno.h>
+	"test_windirent.c"
+	<assert.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<assert.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<zlib.h>
+	<zlib.h>
+	<assert.h>
+	<assert.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+	<assert.h>
+	<assert.h>
+	<string.h>
+
+1684244723 c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\sqlite3\sqlite3.h
+	<stdarg.h>
+
+1684244723 source:c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\sqlite3\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"sqlite_cfg.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
+1687121511 c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\include\manager.h
+	<iostream>
+	<string.h>
+	"functions.h"
+	"Auto.h"
+	"Employee.h"
+	"Client.h"
+	"Order.h"
+	"sqlite3.h"
+
+1687122323 source:c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\functions.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<string>
+	<conio.h>
+	"sqlite3.h"
+	"Auto.h"
+	"Employee.h"
+	"Client.h"
+	"Order.h"
+	"Manager.h"
+
+1687128336 source:c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\src\manager.cpp
+	"Manager.h"
+	<iostream>
+	<string>
+	<vector>
+	"sqlite3.h"
+	"functions.h"
+
+1687121936 c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\include\functions.h
+	<iostream>
+	<windows.h>
+	<vector>
+	"Auto.h"
+	"Employee.h"
+	"Client.h"
+	"Order.h"
+	"Manager.h"
+	<conio.h>
+	"sqlite3.h"
+	<string>
+
+1684244723 source:c:\users\sahar\desktop\Нова папка (2)\Курсова ООП\project\arm sto\sqlite3\sqlite3.c
+	<vxWorks.h>
+	<pthread.h>
+	"mingw.h"
+	"_mingw.h"
+	<stdarg.h>
+	"sqlite_cfg.h"
+	<stdint.h>
+	<inttypes.h>
+	<intrin.h>
+	<cmnintrin.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<TargetConditionals.h>
+	<ctype.h>
+	<time.h>
+	<sys/sysctl.h>
+	<malloc/malloc.h>
+	<libkern/OSAtomic.h>
+	<malloc.h>
+	<pthread.h>
+	"windows.h"
+	<sys/cygwin.h>
+	<errno.h>
+	<process.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<unistd.h>
+	<sys/time.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/file.h>
+	<sys/param.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/mount.h>
+	<utime.h>
+	<sys/dcmd_blk.h>
+	<sys/statvfs.h>
+	<dlfcn.h>
+	"sqlite_tcl.h"
+	"tcl.h"
+	"sqlite3rtree.h"
+	<ctype.h>
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+	<math.h>
+
